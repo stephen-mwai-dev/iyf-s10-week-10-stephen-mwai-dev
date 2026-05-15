@@ -119,18 +119,3 @@ This project is licensed under the ISC License.
 
 
 ---
-
-# ✅ What To Do Next
-
-1. Create a file in your project:
-
-README.md
-
-
-2. Paste everything above ✅
-
-3. Push to GitHub:
-```bash
-git add README.md
-git commit -m "Added README"
-git push
